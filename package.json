@@ -1,0 +1,24 @@
+{
+  "name": "react-store-products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P666R/react-store-products.git"
+  },
+  "author": "PRoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P666R/react-store-products/issues"
+  },
+  "homepage": "https://github.com/P666R/react-store-products#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
